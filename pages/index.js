@@ -1,5 +1,4 @@
 import Layout from "../components/layout/Layout"
-import Banner7_2 from "../components/sections/Banner7_2"
 import Contact from "../components/sections/Contact"
 import Ct04_3 from "../components/sections/Ct04_3"
 import Faqs3_6 from "../components/sections/Faqs3_6"
@@ -40,7 +39,7 @@ export default function Home() {
                 {/* Preguntas frecuentas */}
                 <Faqs3_6 />
                 <hr className="divider" />
-                <Banner7_2 />
+                {/* <Banner7_2 /> */}
                 <hr className="divider" />
                 {/* Contacto */}
                 <Contact />

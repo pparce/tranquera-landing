@@ -46,36 +46,26 @@ export default function Footer3() {
                                 <h6 className="s-17 w-700">Links de Interés</h6>
                                 {/* Links */}
                                 <ul className="foo-links clearfix">
-                                    <li><p><Link href="https://www.salliquelo.gob.ar/">Municipio</Link></p></li>
-                                    <li><p><Link href="https://www.salliquelo.gob.ar/municipalidad.php">Autoridades</Link></p></li>
-                                    <li><p><Link href="https://www.salliquelo.gob.ar/prensa.php">Noticias</Link></p></li>
-                                    <li><p><Link href="https://www.salliquelo.gob.ar/tramites.php">Datos Útiles</Link></p></li>
-                                    <li><p><Link href="https://www.salliquelo.gob.ar/hcd/">Consejo Deliberante</Link></p></li>
-                                    <li><p><Link href="https://www.salliquelo.gob.ar/salliquelo.php">Salliquelo</Link></p></li>
-                                    <li><p><Link href="https://www.salliquelo.gob.ar/quenuma.php">Quenumá</Link></p></li>
+                                    <li><p><a target="_blank" href="https://www.salliquelo.gob.ar/">Municipio</a></p></li>
+                                    <li><p><a target="_blank" href="https://www.salliquelo.gob.ar/municipalidad.php">Autoridades</a></p></li>
+                                    <li><p><a target="_blank" href="https://www.salliquelo.gob.ar/prensa.php">Noticias</a></p></li>
+                                    <li><p><a target="_blank" href="https://www.salliquelo.gob.ar/tramites.php">Datos Útiles</a></p></li>
                                 </ul>
                             </div>
                         </div> {/* END FOOTER LINKS */}
-                        {/* FOOTER NEWSLETTER FORM */}
-                        <div className="col-md-3">
-                            <div className=" m-0">
+                        <div className="col-6 col-md-3">
+                            <div className="footer-links fl-3">
                                 {/* Title */}
-                                <h6 className="s-17 w-700">Siguenos</h6>
-                                {/* Newsletter Form Input */}
-                                <form className="newsletter-form">
-                                    <div className="input-group r-06">
-                                        <input type="email" className="form-control" placeholder="Dirección de correo" required id="s-email" />
-                                        <span className="input-group-btn ico-15">
-                                            <button type="submit" className="btn color--theme">
-                                                <span className="flaticon-right-arrow-1" />
-                                            </button>
-                                        </span>
-                                    </div>
-                                    {/* Newsletter Form Notification */}
-                                    <label htmlFor="s-email" className="form-notification" />
-                                </form>
+                                <h6 className="s-17 w-700">Links de Interés</h6>
+                                {/* Links */}
+                                <ul className="foo-links clearfix">
+                                    <li><p><a target="_blank" href="https://www.salliquelo.gob.ar/hcd/">Consejo Deliberante</a></p></li>
+                                    <li><p><a target="_blank" href="https://www.salliquelo.gob.ar/salliquelo.php">Salliquelo</a></p></li>
+                                    <li><p><a target="_blank" href="https://www.salliquelo.gob.ar/quenuma.php">Quenumá</a></p></li>
+                                </ul>
                             </div>
-                        </div> {/* END FOOTER NEWSLETTER FORM */}
+                        </div> {/* END FOOTER LINKS */}
+                      
                     </div>
                     <hr /> {/* FOOTER DIVIDER LINE */}
                     {/* BOTTOM FOOTER */}

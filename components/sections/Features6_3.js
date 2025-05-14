@@ -10,7 +10,7 @@ export default function Features6_3() {
                         <div className="col-md-10 col-lg-9">
                             <div className="section-title mb-70">
                                 {/* Section ID */}
-                                <span className="section-id">Infinitas posibilidades</span>
+                                {/* <span className="section-id">Infinitas posibilidades</span> */}
                                 {/* Title */}
                                 <h2 className="s-50 w-700">Beneficios Clave</h2>
                                 {/* Text */}

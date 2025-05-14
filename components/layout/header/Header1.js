@@ -21,8 +21,8 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, header
                             {/* HEADER BLACK LOGO */}
                             <div className="desktoplogo">
                                 <Link href="#hero-1" className="logo-black">
-                                    <img className="light-theme-img" src="/logo-tranquera.png" style={{height: '50px !important', maxHeight: 50}} alt="logo" />
-                                    <img className="dark-theme-img" src="/logo-tranquera.png" style={{height: '50px !important', maxHeight: 50}} alt="logo" />
+                                    <img className="light-theme-img" src="/logo-tranquera.png" style={{height: '72px !important', maxHeight: 72}} alt="logo" />
+                                    <img className="dark-theme-img" src="/logo-tranquera.png" style={{height: '72px !important', maxHeight: 72}} alt="logo" />
                                 </Link>
                             </div>
                             {/* HEADER WHITE LOGO */}

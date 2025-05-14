@@ -34,7 +34,7 @@ export default function Hero7() {
                             {/* HERO IMAGE */}
                             <div className="col-md-6">
                                 <div className="hero-7-img text-center wow fadeInLeft">
-                                    <img className="img-fluid" src="/images/img-06.png" alt="hero-image" />
+                                    <img className="img-fluid" src="/images/hero.png" alt="hero-image" />
                                 </div>
                             </div>
                         </div>    {/* End row */}

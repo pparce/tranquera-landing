@@ -54,7 +54,7 @@ export default function Ct04_3() {
                         {/* IMAGE BLOCK */}
                         <div className="col-md-6 order-first order-md-2">
                             <div className="img-block wow fadeInLeft">
-                                <img className="img-fluid" src="/images/tablet-01.png" alt="content-image" />
+                                <img className="img-fluid" src="/images/dashboard.png" alt="content-image" />
                             </div>
                         </div>
                     </div>	{/* END SECTION CONTENT (ROW) */}

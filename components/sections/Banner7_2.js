@@ -14,15 +14,13 @@ export default function Banner7_2() {
                                 <div className="col-md-8">
                                     <div className="banner-7-txt text-center">
                                         {/* Title */}
-                                        <h2 className="s-48 w-700">Grow your business with integrated marketing tools</h2>
+                                        <h2 className="s-48 w-700">Impulsa tu negocio con herramientas inteligentes</h2>
                                         {/* Buttons */}
                                         <div className="btns-group">
-                                            <Link href="#hero-7" className="btn r-04 btn--theme hover--theme">Get srarted - it's free
-                                            </Link>
-                                            <Link href="/pricing-1" className="btn r-04 btn--tra-black hover--theme">Discover pricing</Link>
+                                            <Link href="#hero-7" className="btn r-04 btn--theme hover--theme">Inicia sesión</Link>
                                         </div>
                                         {/* Button Text */}
-                                        <p className="btn-txt ico-15">Free for 14 days - no credit card required.</p>
+                                        {/* <p className="btn-txt ico-15">Free for 14 days - no credit card required.</p> */}
                                     </div>
                                 </div>
                             </div>   {/* End row */}

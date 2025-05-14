@@ -10,7 +10,7 @@ export default function Lnk1_7() {
                         {/* IMAGE BLOCK */}
                         <div className="col-md-6">
                             <div className="img-block left-column wow fadeInRight">
-                                <img className="img-fluid" src="/images/img-07.png" alt="content-image" />
+                                <img className="img-fluid" src="/images/hombre-pensante.png" alt="content-image" />
                             </div>
                         </div>
                         {/* TEXT BLOCK */}

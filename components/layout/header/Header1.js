@@ -9,7 +9,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, header
                     {/* MOBILE HEADER */}
                     <div className="wsmobileheader clearfix">
                         <span className="smllogo">
-                            <img src="/images/logo-pink.png" alt="mobile-logo" />
+                            <img src="/logo-tranquera.png" alt="mobile-logo" />
                         </span>
                         <a id="wsnavtoggle" className="wsanimated-arrow" onClick={handleMobileMenu}>
                             <span />
@@ -21,8 +21,8 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, header
                             {/* HEADER BLACK LOGO */}
                             <div className="desktoplogo">
                                 <Link href="#hero-1" className="logo-black">
-                                    <img className="light-theme-img" src="/images/logo-pink.png" alt="logo" />
-                                    <img className="dark-theme-img" src="/images/logo-pink-white.png" alt="logo" />
+                                    <img className="light-theme-img" src="/logo-tranquera.png" style={{height: '50px !important', maxHeight: 50}} alt="logo" />
+                                    <img className="dark-theme-img" src="/logo-tranquera.png" style={{height: '50px !important', maxHeight: 50}} alt="logo" />
                                 </Link>
                             </div>
                             {/* HEADER WHITE LOGO */}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_2" data-name="Livello 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 748.77 365.14">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: BerlinSansFBDemi-Bold, 'Berlin Sans FB Demi';
+        font-size: 29.24px;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #618e25;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #618e25;
+        stroke-linecap: round;
+        stroke-width: 7px;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #936031;
+        stroke: #a47b52;
+        stroke-width: 8px;
+      }
+
+      .cls-5 {
+        fill: #a47b52;
+        font-family: BritannicBold, 'Britannic Bold';
+        font-size: 69.66px;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-4" x="72.02" y="92.99" width="6.77" height="155.54"/>
+    <rect class="cls-4" x="188.01" y="93.05" width="6.77" height="101.58"/>
+    <rect class="cls-4" x="218.28" y="93.87" width="6.77" height="88.39"/>
+    <rect class="cls-4" x="126.98" y="44.69" width="5.91" height="139.74" transform="translate(15.3 244.43) rotate(-89.96)"/>
+    <rect class="cls-4" x="126.94" y="77.89" width="5.91" height="139.74" transform="translate(-17.94 277.57) rotate(-89.96)"/>
+    <rect class="cls-4" x="126.94" y="106.87" width="5.91" height="139.74" transform="translate(-46.92 306.53) rotate(-89.96)"/>
+    <rect class="cls-4" x="117.58" y="144.52" width="5.91" height="121.73" transform="translate(-84.93 325.8) rotate(-89.96)"/>
+    <polygon class="cls-4" points="74.02 115.39 78.98 111.51 178.63 208.73 173.67 212.61 74.02 115.39"/>
+  </g>
+  <text class="cls-5" transform="translate(296.17 191.16) scale(1.12 1)"><tspan x="0" y="0">TRANQUERAS</tspan></text>
+  <text class="cls-1" transform="translate(295.54 230.31) scale(1.21 1)"><tspan x="0" y="0">INTELIGENTES</tspan></text>
+  <path class="cls-2" d="M154.62,265.22l-23.4.77c-1.77.06-2.64-2.2-1.31-3.41,45.27-41.16,113.12-82.96,141.47-99.23.59-.34-.15-2.97-1.2-3.84-39.44,9.88-150.08,41.74-216.57,103.86-.85.8-.73,2.1.06,2.96,0,0,41.75,46.47,86.86,95.46,3.87,4.2,7.04,4.72,10.33.03,38.21-54.45,118.57-147.45,121.75-191.75.12-1.61-1.58-2.68-2.9-1.81-14.66,9.63-77.15,50-113.7,96.26-.34.43-.85.69-1.39.71Z"/>
+  <path class="cls-3" d="M65.24,267.5c-7.26,10.39-47.31-69.98-47.31-69.98-10.8-20.78-14.43-41.66-14.43-59.45C3.5,63.74,63.74,3.5,138.06,3.5s134.56,60.24,134.56,134.56c0,17.09-3.18,33.43-8.99,48.46"/>
+</svg>

@@ -10,8 +10,11 @@ export default function Footer3() {
                         {/* FOOTER LOGO */}
                         <div className="col-12 col-md-3">
                             <div className="footer-info">
-                                <img className="footer-logo" src="/logo-tranquera.png" style={{ height: '50px !important', maxHeight: 50 }} alt="footer-logo" />
-                                <img className="footer-logo-dark" src="/logo-tranquera.png" style={{ height: '50px !important', maxHeight: 50 }} alt="footer-logo" />
+                                <img className="footer-logo" src="/logo-tranquera.png" style={{ height: '72px !important', maxHeight: 72 }} alt="footer-logo" />
+                                {/* <img className="footer-logo-dark" src="/logo-tranquera.png" style={{ height: '50px !important', maxHeight: 72 }} alt="footer-logo" /> */}
+                            </div>
+                            <div className="footer-info">
+                                <img className="footer-logo" src="/tranquera-logo.png" style={{ height: '92px !important', maxHeight: 92,width: 200, objectFit: 'contain' }} alt="footer-logo" />
                             </div>
                         </div>
                         {/* FOOTER LINKS */}

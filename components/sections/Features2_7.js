@@ -38,7 +38,7 @@ export default function Features2_7() {
                                 <div className="fbox-2 fb-2 wow fadeInUp">
                                     {/* Image */}
                                     <div className="fbox-img gr--whitesmoke h-175">
-                                    <img src="/images/svg/2.svg" alt="icon" /> 
+                                    <img src="/images/svg/4.svg" alt="icon" /> 
                                     </div>
                                     {/* Text */}
                                     <div className="fbox-txt">
@@ -52,7 +52,7 @@ export default function Features2_7() {
                                 <div className="fbox-2 fb-3 wow fadeInUp">
                                     {/* Image */}
                                     <div className="fbox-img gr--whitesmoke h-175">
-                                    <img src="/images/svg/3.svg" alt="icon" /> 
+                                    <img src="/images/svg/emergencia.svg" alt="icon" /> 
                                     </div>
                                     {/* Text */}
                                     <div className="fbox-txt">
